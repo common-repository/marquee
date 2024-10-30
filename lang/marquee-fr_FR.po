@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Marquee\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-30 11:17+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pierre\n"
+"Language-Team: Pierre\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../marquee.php:42
+msgid "No Access for you!"
+msgstr "Pas d'accès pour vous !"
+
+#: ../marquee.php:131
+msgid "Enter here your marquee message, HTML tags are permit..."
+msgstr "Entrez-ici votre message, les balises HTML sont autorisées..."
+
+#: ../marquee.php:131
+msgid "Marquee content:"
+msgstr "Contenu du Marquee :"
+
+#: ../marquee.php:141
+msgid "Enter here the required user level to edit the Marquee"
+msgstr "Choisissez le niveau d'utilisateur requis pour gérer le Marquee"
+
+#: ../marquee.php:141
+msgid "Marquee management:"
+msgstr "Gestion du Marquee :"
+
+#: ../marquee.php:143
+msgid "<b>Who can administrate the Marquee:</b>"
+msgstr "<b>Qui peut administrer le Marquee :</b>"
+
+#: ../marquee.php:155
+msgid "level"
+msgstr "niveau"
+
+#: ../marquee.php:170
+msgid "Define the places where the message will be shown (you can select several pages with the help of the Ctrl key. By default : Everywhere."
+msgstr "Définissez les emplacements où le message devra s'afficher (vous pouvez sélectionner plusieurs pages à l'aide de la touche Ctrl). Par défaut : Partout."
+
+#: ../marquee.php:170
+msgid "On wich page the message will be shown:"
+msgstr "Sur quelle page afficher le message :"
+
+#: ../marquee.php:172
+msgid "Everywhere"
+msgstr "Partout"
+
+#: ../marquee.php:173
+msgid "On the homepage"
+msgstr "Sur la page d'accueil"
+
+#: ../marquee.php:174
+msgid "On pages"
+msgstr "Sur les pages"
+
+#: ../marquee.php:175
+msgid "On search page"
+msgstr "Sur la page de recherche"
+
+#: ../marquee.php:176
+msgid "On single pages"
+msgstr "Sur les pages single"
+
+#: ../marquee.php:177
+msgid "On archives pages"
+msgstr "Sur la page archives"
+
+#: ../marquee.php:178
+msgid "On categories page"
+msgstr "Sur la page des catégories"
+
+#: ../marquee.php:187
+msgid "Define the part of the page where the message will be shown (specify the id). By default"
+msgstr "Définissez la partie de la page où le message devra s'afficher (précisez l'id). Par défaut"
+
+#: ../marquee.php:187
+msgid "Where to display the message:"
+msgstr "Où afficher le message :"
+
+#: ../marquee.php:195
+msgid "Define the size of the font in pt. By default"
+msgstr "Définissez la taille de la police en pt. Par défaut"
+
+#: ../marquee.php:195
+msgid "Font size:"
+msgstr "Taille de la police :"
+
+#: ../marquee.php:204
+msgid "Select the direction of the scrolling text."
+msgstr "Sélectionnez le sens du message défilant."
+
+#: ../marquee.php:204
+msgid "Direction:"
+msgstr "Sens :"
+
+#: ../marquee.php:206
+msgid "Left/Right"
+msgstr "Gauche/Droite"
+
+#: ../marquee.php:207
+msgid "Right/Left"
+msgstr "Droite/Gauche"
+
+#: ../marquee.php:208
+msgid "Top/Bottom"
+msgstr "Haut/Bas"
+
+#: ../marquee.php:209
+msgid "Bottom/Top"
+msgstr "Bas/Haut"
+
+#: ../marquee.php:210
+msgid "Fixed"
+msgstr "Fixe"
+
+#: ../marquee.php:218
+msgid "1 slow, 100 quick. By default"
+msgstr "1 lent, 100 rapide. Par défaut"
+
+#: ../marquee.php:218
+msgid "Scrolling speed:"
+msgstr "Vitesse de défilement :"
+
+#: ../marquee.php:226
+msgid "Width in pixels or in percentage. By default"
+msgstr "Largeur en pixels ou en pourcentage. Par défaut"
+
+#: ../marquee.php:226
+msgid "Width:"
+msgstr "Largeur :"
+
+#: ../marquee.php:235
+msgid "Height in pixels. By default"
+msgstr "Hauteur en pixels. Par défaut"
+
+#: ../marquee.php:235
+msgid "Height:"
+msgstr "Hauteur :"
+
+#: ../marquee.php:244
+msgid "Possible value : transparent, color in format : #ffffff or url(image_url) and possibly a color in format"
+msgstr "Valeur possible : transparent, couleur au format : #ffffff ou url(url_de_l_image) et éventuellement une couleur au format"
+
+#: ../marquee.php:244
+msgid "Background color and/or background image:"
+msgstr "Couleur de fond et/ou image de fond :"
+
+#: ../marquee.php:253
+msgid "In format"
+msgstr "au format"
+
+#: ../marquee.php:253
+msgid "Text color:"
+msgstr "Couleur du texte :"
+
+#: ../marquee.php:262
+msgid "Does the scrolling text have to stop on mouse over?"
+msgstr "Le texte défilant doit-il s'arrêter au passage de la souris ?"
+
+#: ../marquee.php:262
+msgid "Stop on mouse over:"
+msgstr "S'arrête au passage de la souris :"
+
+#: ../marquee.php:270
+msgid "Display scrolling text or not?"
+msgstr "Afficher le texte défilant ou pas ?"
+
+#: ../marquee.php:270
+msgid "Display text:"
+msgstr "Afficher le texte :"
+
+#: ../marquee.php:274
+msgid "Save"
+msgstr "Enregistrer"
+
+#: ../marquee.php:308
+msgid "Click here to edit the message."
+msgstr "Cliquez ici pour éditer le message."
+
+#: ../marquee.php:312
+msgid "Click here to hide the message."
+msgstr "Cliquez ici pour masquer le message."
+
+#: ../marquee.php:366
+msgid "Settings"
+msgstr ""
+
+#~ msgid "Scrolling message:"
+#~ msgstr "Message défilant :"
+#~ msgid "Choose the level required to administrate the Marquee"
+#~ msgstr "Choisissez le niveau requis pour gérer le Marquee"
+#~ msgid ""
+#~ "<a href=\"%s\"><b>Click here</b></a> if you need more information on "
+#~ "Roles and Capabilities."
+#~ msgstr ""
+#~ "<a href=\"%s\"><b>Cliquez-ici</b></a> si vous souhaitez plus "
+#~ "d'information sur les Rôles et les Capacités."
+#~ msgid "Scrolling message options"
+#~ msgstr "Options du message défilant"
+#~ msgid "Cliquez ici pour masquer le texte défilant"
+#~ msgstr "Cliquez ici pour éditer le texte défilant"
+#~ msgid "Taille de la police:"
+#~ msgstr "Définissez la taille de la police en pt (par défaut 9)."
+
